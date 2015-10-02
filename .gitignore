@@ -16,6 +16,5 @@ results
 build
 .grunt
 
-node_modules
 config.js
 config-jira.js
